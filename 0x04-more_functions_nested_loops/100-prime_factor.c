@@ -17,6 +17,7 @@ int main(void)
 			n /= pf;
 			pf--;
 		}
+
 	}
 	printf("%d\n", pf);
 	return (0);
